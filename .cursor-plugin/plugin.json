@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/cursor/plugins/main/schemas/plugin.schema.json",
+  "name": "nsketch",
+  "displayName": "Nsketch AI",
+  "description": "Generate images, videos, voice, and more using Nsketch MCP from Cursor.",
+  "version": "0.1.0",
+  "author": { "name": "Nsketch AI" },
+  "publisher": "nsketch",
+  "homepage": "https://nsketchai.com",
+  "repository": "https://github.com/Nsketch-AI/cursor-plugin",
+  "license": "MIT",
+  "keywords": ["nsketch", "image-generation", "video-generation", "creative", "mcp"],
+  "category": "developer-tools",
+  "tags": ["media", "creative", "ai-generation", "video", "image"]
+}
