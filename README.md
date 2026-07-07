@@ -1,6 +1,6 @@
 # Nsketch AI — Cursor Plugin
 
-Generate images, videos, voice, and more with [Nsketch AI](https://nsketchai.com) directly from Cursor, via the Nsketch MCP server.
+Generate images, videos, voice, and more with [Nsketch AI](https://nsketch.ai) directly from Cursor, via the Nsketch MCP server.
 
 ## Install
 
@@ -11,7 +11,7 @@ Add the Nsketch MCP server to Cursor (`mcp.json`):
   "mcpServers": {
     "nsketch": {
       "type": "http",
-      "url": "https://nsketchai.com/mcp"
+      "url": "https://nsketch.ai/mcp"
     }
   }
 }

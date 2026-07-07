@@ -6,7 +6,7 @@
   "version": "0.1.0",
   "author": { "name": "Nsketch AI" },
   "publisher": "nsketch",
-  "homepage": "https://nsketchai.com",
+  "homepage": "https://nsketch.ai",
   "repository": "https://github.com/Nsketch-AI/cursor-plugin",
   "license": "MIT",
   "keywords": ["nsketch", "image-generation", "video-generation", "creative", "mcp"],

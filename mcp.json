@@ -2,7 +2,7 @@
   "mcpServers": {
     "nsketch": {
       "type": "http",
-      "url": "https://nsketchai.com/mcp"
+      "url": "https://nsketch.ai/mcp"
     }
   }
 }
