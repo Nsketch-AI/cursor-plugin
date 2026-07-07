@@ -11,7 +11,7 @@ Add the Nsketch MCP server to Cursor (`mcp.json`):
   "mcpServers": {
     "nsketch": {
       "type": "http",
-      "url": "https://nsketch.ai/mcp"
+      "url": "https://mcp.nsketch.ai/mcp"
     }
   }
 }
